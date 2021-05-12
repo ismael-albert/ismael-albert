@@ -3,7 +3,7 @@ Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ci
 
 🏆 A paciência é um dos elementos chave para o sucesso!
 
-🛠 React | HTML | CSS | JavaScript | Node.JS | Java
+🛠 React | HTML | CSS | JavaScript | Node.JS | Java | C/C++ |
 🛢 MySQL | MongoDB
 🔧 Visual Studio code | Git | Linux
 
