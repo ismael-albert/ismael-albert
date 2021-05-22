@@ -21,4 +21,3 @@ Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ci
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 
 ![Ismael github stats](https://github-readme-stats.vercel.app/api?username=ismael-albert&show_icons=true&count_private=true&theme=radical)
-.
