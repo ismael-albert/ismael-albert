@@ -1,6 +1,6 @@
 <h2 align="center"> Hey  there!  I'm Ismael Albert. <width="25"></h2>
 
-Seja bem-vindo ao meu perfil, me chamo Ismael Albert, sou desenvolvedor full stack e apaixonado por programação, minha paixão pela programação e pela área de TI começou aos 16 anos, onde pretendo me especializar cada vez mais, amante das melhores tecnologias de desenvolvimento web e mobile.
+Seja bem-vindo ao meu perfil, me chamo Ismael Albert, tenho 17 anos, sou desenvolvedor full stack e apaixonado por programação, minha paixão pela programação e pela área de TI começou aos 16 anos, onde pretendo me especializar cada vez mais, amante das melhores tecnologias de desenvolvimento web e mobile.
 Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA) Campus Codó. 
 
 
