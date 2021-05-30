@@ -5,7 +5,7 @@ Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ci
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 <h3>🛠 Tech Stack</h3>
  
 - 🌐 &nbsp;  React.JS | JavaScript | Node.JS | Vue.JS | CSS | HTML |Java
