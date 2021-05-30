@@ -6,18 +6,20 @@ Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ci
 
 <h3>🛠 Tech Stack</h3>
  
-- 🌐 &nbsp;  React.JS | HTML | CSS | JavaScript | Node.JS | Vue.JS | Java
+- 🌐 &nbsp;  React.JS | JavaScript | Node.JS | Vue.JS | CSS | HTML |Java
 - 🛢 &nbsp;   MySQL
 - 🔧 &nbsp;  Visual Studio code | Git | Linux
 
 
     
     ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-    ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+    ![JavaScript](https://badges.aleen42.com/src/javascript.svg)&nbsp;
+    ![Node](https://badges.aleen42.com/src/node.svg)&nbsp;
     ![ReactJs](https://aleen42.github.io/badges/src/react.svg)&nbsp;
     ![MySQL](https://img.shields.io/badge/-mysql-13aa52?style=flat&logoColor=fff&logo=mysql)&nbsp;
-    ![Java](https://img.shields.io/static/v1?label=&message=Java&color=ff3300)&nbsp;
+    ![Java](https://badges.aleen42.com/src/java.svg)&nbsp;
+    ![HTML](https://img.shields.io/badge/-HTML-f2930d?style=flat&logoColor=fff&logo=HTML)&nbsp;
+    ![CSS](https://img.shields.io/badge/CSS-blue)&nbsp;
 
 
 
