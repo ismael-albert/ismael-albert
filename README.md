@@ -38,7 +38,7 @@ Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ci
 <img align="letf" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-albert&theme=radical&title_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ismael-albert Github Stats" width="300" height="200"><img align="right" src="https://github-readme-stats.vercel.app/api?username=ismael-albert&show_icons=true&count_private=true&theme=radical" alt="ismael-albert Github Stats" width="500" height="200">  
 
 
-
+      
 <br>
 
 
