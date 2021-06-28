@@ -5,7 +5,7 @@ Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ci
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-
+  
 
 <h2>🛠 Tech Stack</h2> 
 
