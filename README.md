@@ -3,10 +3,6 @@
 :woman_technologist: Seja bem-vindo ao meu perfil, me chamo Ismael Albert, tenho 17 anos, sou desenvolvedor Front end e apaixonado por programação, Gosto muito de desafios lógicos e tive meus primeiros contatos com a programação na área da robótica.
 Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA) Campus Codó. 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-  
-
 <h2>🛠 Tech Stack</h2> 
 
 
