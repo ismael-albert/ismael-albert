@@ -5,7 +5,6 @@ Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ci
 </p>
 <h2>🛠 Tech Stack</h2> 
 
-
    &nbsp;
       <h5>Front End: <h5>
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
