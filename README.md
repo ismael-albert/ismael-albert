@@ -26,9 +26,8 @@ Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ci
     ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
          <br>
     ![Ryzen_5_3400g](https://img.shields.io/badge/AMD-Ryzen_5_3400g-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
-         ![]()&nbsp;
-     <h5><h5>
-    ![]()&nbsp;
+
+  
      
 
 
