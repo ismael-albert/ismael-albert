@@ -1,7 +1,7 @@
 <h2 align="center">👾 Hey  there!  I'm Ismael Albert. <width="25"></h2> 
 
 <p align="center">
-:woman_technologist: Seja bem-vindo ao meu perfil, me chamo Ismael Albert, tenho 17 anos, sou desenvolvedor Front end e apaixonado por programação, Gosto muito de desafios lógicos e tive meus primeiros contatos com a programação na área da robótica.
+:woman_technologist: Seja bem-vindo ao meu perfil, me chamo Ismael Albert, tenho 17 anos, sou desenvolvedor Front end e apaixonado por programação, Gosto muito de desafios lógicos e tive meus primeiros contatos com a programação na área da robótica. 
 Sou formado em Técnico de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA) Campus Codó. 
 <br> 
 <br> 
