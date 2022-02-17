@@ -2,7 +2,7 @@
 
 <p align="center">  
 :woman_technologist: Seja bem-vindo ao meu perfil, me chamo Ismael Albert, tenho 18 anos, sou desenvolvedor Front end, atualmente cursando graduação de sistemas para internet. 
-Sou formado em Técnico de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA). 
+Sou formado em Técnico de Informática pelo Instituto Federal de Educação(IFMA). 
 <br>   
 <br> 
 <img width="350px"  src="https://www.cerebro.fit/uploads/thumbnails/course_thumbnails/course_thumbnail_default_70.jpg"/>
