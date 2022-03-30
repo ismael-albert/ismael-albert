@@ -1,7 +1,7 @@
 <h2 align="center">👾 Hey  there!  I'm Ismael Albert. <width="25"></h2> 
 
 <p align="center">  
-:woman_technologist: Seja bem-vindo ao meu perfil, me chamo Ismael Albert, tenho 18 anos, sou desenvolvedor Front end, atualmente cursando graduação de sistemas para internet. 
+:woman_technologist: Seja bem-vindo ao meu perfil, me chamo Ismael Albert, tenho 18 anos, sou desenvolvedor Front end, Graduando em Análise e desenvolvimento de sistemas. 
 Sou formado em Técnico de Informática pelo Instituto Federal de Educação(IFMA). 
 <br>   
 <br> 
