@@ -5,7 +5,6 @@
 Sou formado em Técnico de Informática pelo Instituto Federal de Educação(IFMA). 
 <br>   
 <br> 
-<img width="350px"  src="https://www.cerebro.fit/uploads/thumbnails/course_thumbnails/course_thumbnail_default_70.jpg"/>
 </p>
 
 <h2>🛠 Tech Stack</h2> 
