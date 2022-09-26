@@ -5,7 +5,7 @@
 Sou formado em Técnico de Informática pelo Instituto Federal de Educação(IFMA).
 <br>     
 <br>    
-</p>
+</p> 
  
 <h2>🛠 Tech Stack</h2> 
 
