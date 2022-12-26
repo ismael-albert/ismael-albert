@@ -1,49 +1,50 @@
-<h2 align="center">👾 Hey  there!  I'm Ismael Albert. <width="25"></h2> 
- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a44ea&height=100&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a44ea&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Ismael+Albert.;I'm+from+Brasil,+MA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <p align="center">  
-:woman_technologist: Seja bem-vindo ao meu perfil, me chamo Ismael Albert, tenho 18 anos, sou desenvolvedor Front end, Graduando em Análise e desenvolvimento de sistemas.  
-Sou formado em Técnico de Informática pelo Instituto Federal de Educação(IFMA).
-<br>     
-<br>    
+Olá! Meu nome é Ismael Albert, entusiasta por desenvolvimento front-end, com 2 anos de experiência na área. Adoro trabalhar em projetos dinâmicos que me desafiam a continuar aprendendo e me tornando um profissional cada vez melhor. Tenho uma paixão pelo design e pela usabilidade, o que me permite criar experiências de usuário atraentes e intuitivas. Estou sempre em busca de novos aprendizado e me mantendo atualizado do que tem de novo e moderno.
 </p> 
- 
-<h2>🛠 Tech Stack</h2> 
 
-   &nbsp;  
-      <h5><h5>
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-    ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-    ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-    ![nextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-    ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-    ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=FF0000)&nbsp;
-       
-  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ismael-albert&show_icons=true&count_private=true&hide_border=true&title_color=6a44ea&icon_color=6a44ea&text_color=ffff&bg_color=0d1117" alt="Ismael Albert github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-albert&layout=compact&hide_border=true&title_color=6a44ea&text_color=ffff&bg_color=0d1117" />
+</div>
 
- 
-  
-     
+<section>
 
-  
- 
-<br>  
-<img align="letf" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-albert&theme=radical&title_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ismael-albert Github Stats" width="300" height="200"><img align="right" src="https://github-readme-stats.vercel.app/api?username=ismael-albert&show_icons=true&count_private=true&theme=radical" alt="ismael-albert Github Stats" width="500" height="200">  
+## Stacks: ⬇️
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 
-      
-<br>
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=FF0000)
+![Ionic](https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=3880FF)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![nextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NuxtJs](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h3 align="center"> 🤝🏻 Connect with Me</h3>
-<p align="center">
-&nbsp; <a href="https://twitter.com/IsmaelAlbert14" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/ismaelalbert_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/ismaelalbert/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:maelworkspace@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /> </a>
-</p>
+</section>
 
-⭐️ From [ismael-albert](https://github.com/ismael-albert).
-      
-     
-   
+#
+
+<div align="center">
+<h3>Contact-me:</h3>
+<a href="mailto:albertismael7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-6a44ea?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/ismaelalbert/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6a44ea?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://contate.me/ismael-albert7" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-6a44ea?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+</div>
+
+#
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a44ea&height=100&section=footer"/>
