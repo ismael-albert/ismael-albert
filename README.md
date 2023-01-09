@@ -4,7 +4,7 @@
 
 <p align="center">  
 Olá! Meu nome é Ismael Albert, entusiasta por desenvolvimento front-end, com 2 anos de experiência na área. Adoro trabalhar em projetos dinâmicos que me desafiam a continuar aprendendo e me tornando um profissional cada vez melhor. Tenho uma paixão pelo design e pela usabilidade, o que me permite criar experiências de usuário atraentes e intuitivas. Estou sempre em busca de novos aprendizado e me mantendo atualizado do que tem de novo e moderno.
-</p> 
+</p>  
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ismael-albert&show_icons=true&count_private=true&hide_border=true&title_color=6a44ea&icon_color=6a44ea&text_color=ffff&bg_color=0d1117" alt="Ismael Albert github stats" /> 
