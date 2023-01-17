@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a44ea&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a44ea&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Ismael+Albert.;I'm+from+Brasil,+MA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a44ea&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Ismael+Albert.;I'm+from+Brasil,+MA;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <p align="center">  
 Olá! Meu nome é Ismael Albert, entusiasta por desenvolvimento front-end, com 2 anos de experiência na área. Adoro trabalhar em projetos dinâmicos que me desafiam a continuar aprendendo e me tornando um profissional cada vez melhor. Tenho uma paixão pelo design e pela usabilidade, o que me permite criar experiências de usuário atraentes e intuitivas. Estou sempre em busca de novos aprendizado e me mantendo atualizado do que tem de novo e moderno.
