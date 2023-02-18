@@ -43,7 +43,7 @@ Hello! My name is Ismael Albert. I'm currently a front-end developer looking to 
 <h3>Contact-me:</h3>
 <a href="mailto:albertismael7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-6a44ea?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/ismaelalbert/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6a44ea?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://contate.me/ismael-albert7" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-6a44ea?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+
 </div>
 
 #
