@@ -4,7 +4,7 @@
 
 <p align="center" >  
 Hello! My name is Ismael Albert. I'm currently a front-end developer looking to expand my skills to full-stack development.
-</p>
+</p> 
 
 <!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ismael-albert&show_icons=true&count_private=true&hide_border=true&title_color=6a44ea&icon_color=6a44ea&text_color=ffff&bg_color=0d1117" alt="Ismael Albert github stats" /> 
