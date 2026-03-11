@@ -1,51 +1,43 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a44ea&height=100&section=header"/> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a44ea&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Ismael+Albert.;I'm+from+Brasil,+MA;Be+Welcome!+:%29)](https://git.io/typing-svg) 
- 
-<p align="center" >  
-Hello! My name is Ismael Albert. I'm currently a front-end developer.
-</p>  
-
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ismael-albert&show_icons=true&count_private=true&hide_border=true&title_color=6a44ea&icon_color=6a44ea&text_color=ffff&bg_color=0d1117" alt="Ismael Albert github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-albert&layout=compact&hide_border=true&title_color=6a44ea&text_color=ffff&bg_color=0d1117" />
-</div> -->
-
-<section>
-  
-## Stacks: ⬇️
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
-
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=FF0000)
-![Ionic](https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=3880FF)
-![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-
-![nextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NuxtJs](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-</section>
-
-#
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F2937&height=120&section=header"/>
 
 <div align="center">
-<h3>Contact-me:</h3>
-<a href="mailto:albertismael7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-6a44ea?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/ismaelalbert/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6a44ea?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <br/>
+  <h1>Full-Stack Developer</h1>
+  <p><em>4+ anos em desenvolvimento web</em></p>
+  <br/>
 
+  ![](https://img.shields.io/badge/-Go-000?style=flat-square&logo=go)
+  ![](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+  ![](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+  ![](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql)
+  ![](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
+  ![](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
+  ![](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
 </div>
 
-#
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a44ea&height=100&section=footer"/>
+---
+
+```txt
+BACKEND   Go · Gin · Node.js · REST API · SQL · PostgreSQL · Amazon S3
+FRONTEND  React · Next.js · Vue · SvelteKit · Angular · Ionic · React Native
+ESTILOS   Tailwind · Sass · Shadcn · Bootstrap · Styled Components
+ESTADO    Redux · Zustand · Context API
+TOOLS     TypeScript · JavaScript · Figma · Vite · Webpack · Docker · SEO
+
+✦  +15 aplicações entregues — SaaS, PDV, Dashboards, Mobile
+✦  Design Systems do zero à documentação
+✦  Full-stack: backend Go/Node + frontend moderno
+```
+
+<div align="center">
+ <a href="mailto:albertismael7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white"/>
+ </a>
+ <a href="https://www.linkedin.com/in/ismaelalbert/">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white"/>
+ </a>
+<br/><br/> 
+ <img src="https://komarev.com/ghpvc/?username=ismael-albert&color=1F2937&style=flat-square&label=views"/> 
+</div> 
+
+
